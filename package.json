@@ -9,6 +9,9 @@
   "author": "Michael Yuen <michaelclaytonyuen@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-less": "^3.1.0",
+    "gulp-livereload": "^3.8.1"
   }
 }
