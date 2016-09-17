@@ -1,6 +1,6 @@
 {
   "name": "gulp-playground",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Playing with gulp in an isolated setting",
   "main": "index.html",
   "keywords": [
